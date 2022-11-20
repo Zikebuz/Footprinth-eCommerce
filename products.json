@@ -1,0 +1,33 @@
+[{
+    "image": "/images/img-1.jpg",
+    "title": "Footwear One",
+    "id": "1",
+    "description": "Footprinth affordable footwear sample for every man",
+    "price": "250"
+},
+
+{
+    "image": "/images/img-2.jpg",
+    "title": "Footwear Two",
+    "id": "2",
+    "description": "Footprinth affordable footwear sample for every man",
+    "price": "200"
+},
+
+{
+    "image": "/images/img-3.jpg",
+    "title": "Footwear Three",
+    "id": "3",
+    "description": "Footprinth affordable footwear sample for every man",
+    "price": "100"
+},
+
+{
+    "image": "/images/img-4.jpg",
+    "title": "Footwear Four",
+    "id": "4",
+    "description": "Footprinth affordable footwear sample for every man",
+    "price": "10"
+}
+
+]

@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.layout-header{
+    display: flex; /* the moment you use display flex there is a default property called 'flex-direction: row'*/
+    flex-direction: row; /*it previously a 'column' by default but with the flex-direction it's set to row */
+    justify-content: space-between; /* We float to the right the cart icon using 'justify-content: space-between' */
+    background-color:#212529;
+    color:  #fff;
+    padding: 25px 60px; /* top & bottom and the left & right */
+    margin-bottom: 30px;
+
+}
+
+.cart-link{
+    position: relative;
+    background-color: #fff;
+    color: #212529;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.brand{
+    font-family: cursive;
+}
+
+.custom-cart{
+   cursor: pointer;
+}
+
+.layout-footer {
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+    color: #fff;
+    width: 100%;
+    line-height: 50px;
+    text-transform: capitalize;
+    border-top: 1px solid #eaeaea;
+    margin-top: 50px;
+  }
+
