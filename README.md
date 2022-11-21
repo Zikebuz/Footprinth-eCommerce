@@ -1,10 +1,12 @@
 Static eCommerce Project Using React Next.js and Snipcart
 
-## Getting Started
+##  Getting Started
 
-First, run the development server:
+### cd into the project directory
 
 ```bash
+Run the development server:
+
 npm run dev
 # or
 yarn dev
